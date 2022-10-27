@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+(AWESOME TEMPLATE, THANKS GIT)
 <!--
 **gg-im-done/gg-im-done** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -13,5 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...is a NICE FUCKING QUESTION FELLAS
 - 😄 Pronouns: ...goof, arsehole, monkey, wanker, blockhead, boobie, dullard, slob
 - ⚡ Fun fact.
-
-AWESOME TEMPLATE, THANKS GIT
